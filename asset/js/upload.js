@@ -23,7 +23,7 @@ $smfile.fileinput({
     resizePreference: 'height',
     maxFileCount: 1,
     resizeImage: true,
-    resizeIfSizeMoreThan: 1024M,
+    resizeIfSizeMoreThan: 1024,
     maxFileCount: '100',
     maxAjaxThreads: 2,
     showClose: false,
