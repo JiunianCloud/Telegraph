@@ -21,7 +21,7 @@ $smfile.fileinput({
     maxImageWidth: 1020,   
     maxImageHeight: 1020,    
     resizePreference: 'height',
-    maxFileCount: 20,
+    maxFileCount: 50,
     resizeImage: true,
     resizeIfSizeMoreThan: 1024,
     maxFileCount: '100',
